@@ -1,7 +1,7 @@
 ---
 applications:
-- name: eureka
-  host: eurekah
+- name: ureka
+  host: ureka
   domain: cfapps.io
   instances: 1
   path: target/eureka-server-0.0.1-SNAPSHOT.jar
